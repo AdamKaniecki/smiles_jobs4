@@ -1,1 +1,2 @@
-# smiles_jobs4
+
+The application for a recruiter specializing in hiring programmers allows companies to register accounts and define requirements for desired candidates. Programmers can create an account, complete their CV, and suspend job searches. Company representatives can browse candidate profiles, mark them as hired, and manage company accounts. Ensuring user-friendly application use and data security is crucial.
